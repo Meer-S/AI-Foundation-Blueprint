@@ -1,13 +1,13 @@
-# AI Tester Blueprint
+# AI Agent Blueprint
 
-**A comprehensive knowledge base for QA professionals working with AI systems.**
+**A comprehensive knowledge base for QA/security professionals working with AI systems.**
 
 ---
 
-- **Author:** Pramod Dutta
-- **Role:** Principal SDET
-- **Website:** [The Testing Academy](https://thetestingacademy.com/)
-- **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)
+- **Author:** Meer Saifulla
+- **Role:** AI security Engineer
+- **Website:** [The AI Academy](https://theaiacademy.com/)
+- **LinkedIn:** [linkedin.com/in/meer saifulla](https://www.linkedin.com/in/meer saifulla/)
 
 ---
 
@@ -25,20 +25,20 @@
 
 ## 🎯 Purpose
 
-This blueprint provides QA teams with:
+This blueprint provides AI teams with:
 
 - ✅ **Anti-Hallucination Rules** - Prevent AI from generating false information
 - ✅ **Practical Guides** - Run local LLMs, generate test cases from PRDs
-- ✅ **Prompt Engineering** - Write effective prompts for QA tasks
+- ✅ **Prompt Engineering** - Write effective prompts for development tasks
 - ✅ **Exercises & Case Studies** - Hands-on learning materials
-- ✅ **Agent Architectures** - Build reliable AI-powered QA tools
+- ✅ **Agent Architectures** - Build reliable AI-powered tools
 
 ---
 
 ## 🗂️ Repository Structure
 
 ```
-AITesterBlueprint/
+AI Agent Blueprint/
 │
 ├── README.md                              # This file
 │
@@ -186,7 +186,7 @@ Requirements → Test Plan → Strategy → Test Design → Automation Code → 
 ## 🛠️ Prerequisites
 
 - Basic understanding of software testing
-- Familiarity with QA workflows
+- Familiarity with DEV/QA workflows
 - (Optional) Ollama installed for local LLM usage
 - (Optional) Python + Playwright installed for Chapter 4 automation exercises
 
@@ -194,7 +194,7 @@ Requirements → Test Plan → Strategy → Test Design → Automation Code → 
 
 ## 📝 License
 
-This material is created for educational purposes by [The Testing Academy](https://thetestingacademy.com/).
+This material is created for educational purposes by [The AI Academy](https://theaiacademy.com/).
 
 ---
 
